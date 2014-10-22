@@ -13,7 +13,7 @@ OSX: Copy or alias Replacify.jsx to this folder
 
 Windows: Copy or alias Replacify.jsx to this folder
 ```
-??? Please let me know where it should go...
+C:\Program Files\Adobe\Adobe Photoshop CC 2014\Presets\Scripts
 ```
 
 ## Setup
