@@ -38,7 +38,7 @@ Create a folder with your photoshop files and a replacify.json file:
 }
 ```
 
-Replacify will match text layer names in the json file with the data in the json file.
+Replacify will match text layer names in the .psd file with the data in the .json file.
 
 You can update any value for the TextItem that accepts a boolean, numeric, or string value.
 
