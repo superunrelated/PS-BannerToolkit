@@ -56,3 +56,9 @@ Reference: http://wwwimages.adobe.com/content/dam/Adobe/en/devnet/photoshop/pdfs
 In Photoshop select File > Script > Replacify. Select the folder containing the replacify.json file and your .psd files you want to update.
 
 Smack! Done!
+
+
+
+
+The script includes a minified version of Douglas Crockfors's json2.js: 
+https://github.com/douglascrockford/JSON-js
