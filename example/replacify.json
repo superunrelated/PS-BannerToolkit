@@ -1,0 +1,17 @@
+{
+	"document" : {
+		"close" : true
+	},
+	"layers":{
+		"title" : {
+			"contents" : "The NEW title",
+			"size" : 50
+		}, 
+		"subtitle" : {
+			"contents" : "This is the new subtitle"
+		}, 
+		"body" : {
+			"contents" : "Quisque ullamcorper id diam sed pellentesque. Nunc lobortis fermentum aliquet. Nulla non suscipit erat. Proin auctor, massa id vulputate convallis, nisi dolor auctor est, sed posuere elit lorem sit amet tellus. Mauris ipsum metus, sagittis eget molestie at, tristique non nunc. Sed bibendum, tellus a aliquet ullamcorper, tellus dui placerat mi, sed gravida mi elit non dolor. Duis cursus mi eu vulputate accumsan."
+		}
+	}
+}
