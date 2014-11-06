@@ -6,12 +6,14 @@ A set of Photoshop scripts for automating monotonous tasks in display ad creatio
 
 ### Installation
 
-OSX: Copy or alias Replacify.jsx and Duplicatify.jsx to this folder:
+Copy or alias all the .jsx files to this folder:
+
+OSX:
 ```
 /Applications/Adobe Photoshop CC/Presets/Scripts
 ```
 
-Windows: Copy or alias Replacify.jsx to this folder
+Windows:
 ```
 C:\Program Files\Adobe\Adobe Photoshop CC 2014\Presets\Scripts
 ```
@@ -83,7 +85,7 @@ An easy way of saving all LayerSets as separate jpgs with separate kb size targe
 
 ### Use
 
-- Run the script from the File > Scripts menu. Select a folder with .psd files with names in the following format: WIDTHxHEIGHT_FILENAME.psd. (Fx: "468x400_filename.psd"). 
+- Run the script from the File > Scripts > Publishify menu. Select a folder with .psd files with names in the following format: WIDTHxHEIGHT_FILENAME.psd. (Fx: "468x400_filename.psd"). 
 - Every file will get a separate form field where you must enter the target kilobyte size for that file.
 - Hit OK, and a jpg will be generated for every LayerSet in every .psd file.
-- You will get an alert when it's done informing you of the quality setting of each file.
+- You will get an alert when it's done, informing you of the quality setting of each file.
