@@ -74,8 +74,16 @@ In Photoshop select File > Script > Replacify. Select the folder containing the 
 
 Smack! Done!
 
-
-
-
 The script includes a minified version of Douglas Crockfors's json2.js: 
 https://github.com/douglascrockford/JSON-js
+
+## Publishify
+
+An easy way of saving all LayerSets as separate jpgs with separate kb size targets. Visible layers outside LayerSets will always appear on all jpg's. 
+
+### Use
+
+- Run the script from the File > Scripts menu. Select a folder with .psd files with names in the following format: WIDTHxHEIGHT_FILENAME.psd. (Fx: "468x400_filename.psd"). 
+- Every file will get a separate form field where you must enter the target kilobyte size for that file.
+- Hit OK, and a jpg will be generated for every LayerSet in every .psd file.
+- You will get an alert when it's done informing you of the quality setting of each file.
